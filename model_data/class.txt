@@ -1,0 +1,9 @@
+H-Battery
+K-Fruit
+K-FruitSkin
+K-Vegetable
+k-VegetabSkin
+O-Ceramics
+O-Cigarette
+R-Bottle
+R-Cans
